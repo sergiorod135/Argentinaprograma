@@ -1,0 +1,19 @@
+Repuestas practico0:
+
+Ejercicio 1-a: resta.js = 8
+
+Ejercicio 1-b: multiplicacion.js = 204
+
+Ejercicio 2-a: areaRectangulo.js = 15
+
+Ejercicio 2-b: areaRectangulob.js = 66.25
+
+Ejercicio 3-a: conversionGrados.js = 10
+
+Ejercicio 3-b: conversionGradosb.js = 23.88888888888889
+
+Ejercicio 4-a: promedio3a.js = 7
+
+Ejercicio 4-b: promedio3b.js = -4.33333333333
+
+Ejercicio 4-c: promedio3c.js = 0.2666666666666666
